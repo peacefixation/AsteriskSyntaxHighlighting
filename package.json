@@ -1,0 +1,12 @@
+{
+    "name": "matthewjarvis.asterisk-syntax-highlighting",
+    "title": "Asterisk Syntax Highlighting",
+    "description": "Syntax highlight for Asterisk dialplan code",
+    "homepage": "",
+    "version": "1.0.0",
+    "author": "Matthew Jarvis <mattjarvis@internodeon.net>",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
